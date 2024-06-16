@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# QR-Code-Generator
+This project is a QR Code Generator application developed using React.js. The application allows users to input a text or URL, which is then converted into a QR code that can be easily scanned by any QR code reader.
+>>>>>>> 30d0fa51e7c491f9faf694e8733068c5d6d197f1
